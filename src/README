@@ -1,0 +1,12 @@
+Simple Reminders app to mess with React, MongoDB and node...with TS
+
+## Available Scripts
+
+Start the server with
+
+### `cd backend`
+### `npm install && npm start`
+
+
+Start the frontend with
+### `npm install && npm start`
